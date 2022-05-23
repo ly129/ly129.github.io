@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# Welcome to Yi Lian's Personal Website
 
 <center>
 <img src = "slopelife.jpg">
