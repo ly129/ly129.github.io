@@ -1,8 +1,6 @@
 ## Welcome to GitHub Pages
 
-<p align="center">
-[image](slopelife.jpg)
-</p>
+![image](slopelife.jpg#center)
 
 You can use the [editor on GitHub](https://github.com/ly129/ly129.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
