@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Yi Lian"
   avatar           : "IMG_0447.png"
-  bio              : "PhD Candidate in Biostatistics at McGill University, Montréal"
+  bio              : "PhD Candidate in Biostatistics"
   location         : "Vancouver, BC"
-  employer         :
+  employer         : "McGill University"
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
   email            :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "ly129"
   google_plus      :
   keybase          :
   instagram        :
