@@ -92,17 +92,16 @@
   var mainContainer = document.querySelectorAll('.content-wrapper');
   var switcher = document.getElementById('switcher');
 
-  switcher.addEventListener('click', function(event) {
-    event.preventDefault();
+  switcher.addEventListener('click', slide, false);
+
+
+  function slide() {
     switcher.style.cursor = "pointer";
     aside.classList.add('transition-divs');
-    aside.classList.toggle('aside-left');
+    aside.classList.toggle('aside-right');
     [].forEach.call(mainContainer, function(c) {
       c.classList.add('transition-divs');
       c.classList.toggle('centering');
     });
-  }, false);
-
-
-
+  }
 })();
