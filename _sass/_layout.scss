@@ -80,7 +80,11 @@ a {
   border-bottom: 1px solid #ddd;
 }
 
-
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
 
 /*
 * Header Navigation
