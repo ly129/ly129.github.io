@@ -98,7 +98,7 @@
   function slide() {
     switcher.style.cursor = "pointer";
     aside.classList.add('transition-divs');
-    aside.classList.toggle('aside-right');
+    aside.classList.toggle('aside-left');
     [].forEach.call(mainContainer, function(c) {
       c.classList.add('transition-divs');
       c.classList.toggle('centering');
