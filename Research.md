@@ -1,11 +1,11 @@
 ---
 bg: "icecave.jpg"
 layout: page
-title: "About"
+title: "Research"
 crawlertitle: "Why and how this blog was created"
-permalink: /about/
-summary: "About this blog"
-active: about
+permalink: /research/
+summary: "LY's Research"
+active: research
 ---
 
 This 

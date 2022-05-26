@@ -34,9 +34,9 @@ If page contains `active` tag, it will be show on site menu.
 ```
 ---
 layout: page
-title: "About"
-permalink: /about/
-active: about
+title: "Research"
+permalink: /research/
+active: research
 ---
 ```
 
