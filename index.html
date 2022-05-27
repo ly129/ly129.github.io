@@ -13,10 +13,11 @@ summary: "About"
 
   <p>I will be</p>
 
+<h1>News</h1>
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <img src="icecave.jpeg"
+    <img src="icecave.jpeg">
     {{ post.excerpt }}
   </article>
 {% endfor %}
