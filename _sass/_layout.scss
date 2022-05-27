@@ -73,7 +73,7 @@ a {
 * ========================================================================== */
 .main-header {
   background-color: #fdfdfd;
-  position: sticky;
+  position: fixed;
   z-index: 100;
   width: 100%;
   top: 0;
@@ -87,7 +87,6 @@ a {
 * ========================================================================== */
 .nav-main {
   height: 50px;
-  position: fixed;
   text-transform: uppercase;
   font-weight: bold;
   display: -webkit-flex;
