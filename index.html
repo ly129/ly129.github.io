@@ -11,13 +11,13 @@ summary: "About"
 
   I received my undergraduate degrees in Pharmacology and Statistics and my Master's degree in Epidemiology from McGill.<br></p>
 
-  <p>I will be doing</p>
+  <p>I will be doing my postdoc</p>
 
 <h1>News</h1>
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
     <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-    <img src="icecave.jpeg">
+    <img src="assets/images/icecave.jpeg">
     {{ post.excerpt }}
   </article>
 {% endfor %}
