@@ -40,6 +40,15 @@ active: research
 ---
 ```
 
+```
+---
+layout: page
+title: "Software"
+permalink: /software/
+active: software
+---
+```
+
 **Archive**
 
 Archive page is sorting posts by tags. No more than one tag in one post.
