@@ -41,3 +41,4 @@ sass:
 
 
 images: '/assets/images'
+show_feed: false
