@@ -6,8 +6,8 @@ active: publications
 bg: 'assets/images/pubs.jpg'
 ---
 
-Please see my Google Scholar page for a complete list of publications.
-<p><a href="https://scholar.google.ca/citations?hl=en&user=zNERKo8AAAAJ">Google Scholar</a></p>
+Please see my <a href="https://scholar.google.ca/citations?hl=en&user=zNERKo8AAAAJ">Google Scholar</a> page for a complete list of publications.
+
 
 <!-- If you want a short curated list up top, keep it tiny and current; otherwise defer to Scholar. -->
 <ul>
