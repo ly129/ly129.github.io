@@ -5,7 +5,7 @@ title: "Research"
 crawlertitle: "Why and how this blog was created"
 permalink: /research/
 summary: "LY's Research"
-active: research
+# active: research/
 ---
 
 This 
