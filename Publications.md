@@ -6,8 +6,8 @@ active: publications
 bg: 'assets/images/pubs.jpg'
 ---
 
-<p><a href="https://scholar.google.ca/citations?hl=en&user=zNERKo8AAAAJ">Google Scholar</a> • 
-<a href="{{ '/assets/cv/CV_YiLian_July2025.pdf' | relative_url }}">CV (PDF)</a></p>
+Please see my Google Scholar page for a complete list of publications.
+<p><a href="https://scholar.google.ca/citations?hl=en&user=zNERKo8AAAAJ">Google Scholar</a></p>
 
 <!-- If you want a short curated list up top, keep it tiny and current; otherwise defer to Scholar. -->
 <ul>
