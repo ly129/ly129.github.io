@@ -6,9 +6,9 @@ active: publications
 bg: 'assets/images/pubs.jpg'
 ---
 
-Please see my <a href="https://scholar.google.ca/citations?hl=en&user=zNERKo8AAAAJ">Google Scholar</a> page for a complete list of publications.
-
 ## Selected First-Authored Publications
+
+Please see my <a href="https://scholar.google.ca/citations?hl=en&user=zNERKo8AAAAJ">Google Scholar</a> page for a complete list of publications.
 
 ### 2025
 - D3MI: an efficient and powerful federated imputation method for bias reduction in the analysis of distributed incomplete data by accounting for within-site correlation and between-site heterogeneity. *medRxiv*. **First author.** [medRxiv](https://www.medrxiv.org/content/10.1101/2025.05.08.25327224v1)  
