@@ -47,3 +47,8 @@ social:
   linkedin: yi-lian-1bbb2582   # e.g., yi-lian
   x: YiLianResearch                 # e.g., yilian_stats
   github: ly129
+
+url: "https://ly129.github.io"   # <- required for absolute URLs
+
+plugins:
+  - jekyll-sitemap
