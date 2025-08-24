@@ -3,7 +3,7 @@ layout: page
 title: "Publications"
 permalink: /publications/
 active: publications
-bg: 'assets/images/wedding.jpeg'
+bg: 'assets/images/portrait.jpeg'
 ---
 
 ## Selected First-Authored Publications
