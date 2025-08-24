@@ -1,4 +1,32 @@
+<!-- <footer class="blog-footer content-wrapper">
+  <p>&copy; <span class="full-year"></span> {{ site.title }}</p>
+</footer>
+<script src="{{ site.baseurl }}/assets/js/scripts.js"></script> -->
+
+
+
 <footer class="blog-footer content-wrapper">
+  <div class="footer-social">
+    {% if site.social.linkedin %}
+      <a href="https://www.linkedin.com/in/{{ site.social.linkedin }}" target="_blank" rel="noopener me" aria-label="LinkedIn">
+        <!-- LinkedIn -->
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5zM.5 8.5h4V23h-4V8.5zM8.5 8.5h3.8v1.98h.05c.53-1 1.84-2.06 3.8-2.06 4.06 0 4.8 2.67 4.8 6.14V23h-4v-5.93c0-1.41-.03-3.22-1.96-3.22-1.96 0-2.26 1.53-2.26 3.11V23h-4V8.5z"/></svg>
+      </a>
+    {% endif %}
+    {% if site.social.x %}
+      <a href="https://x.com/{{ site.social.x }}" target="_blank" rel="noopener me" aria-label="X">
+        <!-- X/Twitter -->
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M18.244 2H21.5l-7.5 8.57L22.5 22h-6.09l-4.76-5.59L6.1 22H2.84l8.19-9.36L2 2h6.21l4.31 5.12L18.24 2Zm-1.07 18h1.68L7.9 4h-1.7l11.9 16Z"/></svg>
+      </a>
+    {% endif %}
+    {% if site.social.github %}
+      <a href="https://github.com/{{ site.social.github }}" target="_blank" rel="noopener me" aria-label="GitHub">
+        <!-- GitHub -->
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5A11.5 11.5 0 0 0 .5 12.3c0 5.22 3.4 9.64 8.13 11.2.6.1.82-.26.82-.58 0-.28-.01-1.02-.02-2-3.3.74-4-1.6-4-1.6-.55-1.44-1.35-1.82-1.35-1.82-1.1-.78.08-.76.08-.76 1.2.08 1.84 1.25 1.84 1.25 1.08 1.9 2.83 1.35 3.52 1.03.11-.8.42-1.35.76-1.66-2.64-.31-5.42-1.36-5.42-6.04 0-1.33.46-2.42 1.22-3.28-.12-.31-.53-1.57.11-3.28 0 0 1-.33 3.3 1.25a11.3 11.3 0 0 1 6 0c2.3-1.58 3.3-1.25 3.3-1.25.64 1.71.24 2.97.12 3.28.76.86 1.22 1.95 1.22 3.28 0 4.7-2.78 5.72-5.43 6.03.44.38.82 1.12.82 2.27 0 1.64-.02 2.96-.02 3.36 0 .32.22.69.83.57A11.5 11.5 0 0 0 23.5 12.3 11.5 11.5 0 0 0 12 .5Z"/></svg>
+      </a>
+    {% endif %}
+  </div>
+
   <p>&copy; <span class="full-year"></span> {{ site.title }}</p>
 </footer>
 <script src="{{ site.baseurl }}/assets/js/scripts.js"></script>

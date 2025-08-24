@@ -2,3 +2,13 @@
 ---
 
 @import "voyager";
+
+
+.footer-social { margin-bottom: 0.5rem; }
+.footer-social a {
+  display:inline-flex; align-items:center; justify-content:center;
+  width:36px; height:36px; border-radius:50%;
+  border:1px solid #e3e3e3; margin-right:10px; text-decoration:none;
+}
+.footer-social a:hover { background:#f7f7f7; }
+.footer-social svg { width:18px; height:18px; fill:#222; }
